@@ -2,7 +2,7 @@
 
 <html>
   <head>
-    <title> Welcome to CUS1172 </title>title>
+    <title> Welcome to CUS1172 </title>
     
   </head>
   <body>
