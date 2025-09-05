@@ -1,13 +1,3 @@
-# CUS1172_MariannaRegina
+# CUS1172-MariannaRegina
 
-<html>
-  <head>
-    <title> Welcome to CUS1172 </title>
-    
-  </head>
-  <body>
-
-  
-    
-  </body>
-</html>
+Welcome to CUS1172. This is an intro to web app development. 
